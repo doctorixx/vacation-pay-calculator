@@ -1,4 +1,5 @@
 # Vacation API
+![](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/doctorixx/vacation-pay-calculator/badge)
 
 API для расчета отпускных для сотрудников компании
 
